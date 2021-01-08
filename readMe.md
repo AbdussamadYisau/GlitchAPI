@@ -33,6 +33,13 @@ A single express API endpoint route [HTTP POST]
 }
 
 ```
+## Testing on Postman
+
+![Image of Testing With Glitch Link, no specified field]()
+
+![Image of Localhost Testing With Specified field]()
+
+![Image of Localhost Testing with Invalid URL]()
 
 ## Made by Abdussamad Yisau [https://github.com/AbdussamadYisau/]
 
