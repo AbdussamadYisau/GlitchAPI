@@ -35,11 +35,11 @@ A single express API endpoint route [HTTP POST]
 ```
 ## Testing on Postman
 
-![Image of Testing With Glitch Link, no specified field]()
+![Image of Testing With Glitch Link, no specified field](https://github.com/AbdussamadYisau/GlitchAPI/blob/master/assets/testGlitchMe.png)
 
-![Image of Localhost Testing With Specified field]()
+![Image of Localhost Testing With Specified field](https://github.com/AbdussamadYisau/GlitchAPI/blob/master/assets/specifiedField.png)
 
-![Image of Localhost Testing with Invalid URL]()
+![Image of Localhost Testing with Invalid URL](https://github.com/AbdussamadYisau/GlitchAPI/blob/master/assets/invalidURL.png)
 
 ## Made by Abdussamad Yisau [https://github.com/AbdussamadYisau/]
 
