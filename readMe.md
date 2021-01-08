@@ -41,7 +41,7 @@ A single express API endpoint route [HTTP POST]
 
 ![Image of Localhost Testing with Invalid URL](https://github.com/AbdussamadYisau/GlitchAPI/blob/master/assets/invalidURL.png)
 
-## Made by Abdussamad Yisau [https://github.com/AbdussamadYisau/]
+## Made by [Abdussamad Yisau](https://github.com/AbdussamadYisau/)
 
 Find out more about this project [here](https://glitch.com/~outstanding-amused-sombrero) 
 
